@@ -1,0 +1,4 @@
+Apple;ATB;35;1;kg
+Banana;Silpo;50;1;kg
+Apple;ATB;35;1;kg
+ Banana;Silpo;69;1;kg
